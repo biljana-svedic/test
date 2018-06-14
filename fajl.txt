@@ -5,6 +5,6 @@ cetvrta linija
 peta
 sesta
 sedma
-osma
+osma linija
 deveta
 deseta
