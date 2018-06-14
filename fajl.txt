@@ -3,7 +3,7 @@ druga linija
 treca
 cetvrta
 peta
-sesta
+sesta linija
 sedma
 osma
 deveta
