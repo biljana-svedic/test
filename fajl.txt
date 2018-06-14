@@ -1,10 +1,10 @@
 prva
 druga linija
 treca
-cetvrta
+cetvrta linija
 peta
 sesta linija
 sedma
-osma
+osma linija
 deveta
-deseta linija mastera
+deseta linija izmiksovana...
