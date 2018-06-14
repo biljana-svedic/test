@@ -7,4 +7,4 @@ sesta linija
 sedma
 osma
 deveta
-deseta
+deseta linija mastera
