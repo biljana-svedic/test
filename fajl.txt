@@ -7,4 +7,4 @@ sesta
 sedma
 osma linija
 deveta
-deseta
+deseta linija developa
